@@ -1,0 +1,2 @@
+# acceleroMagneto
+Acceleration and magnetometer
