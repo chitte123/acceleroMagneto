@@ -1,0 +1,4 @@
+EWARM/accelroMagneto
+**/accelroMagneto
+*.o
+*.log
